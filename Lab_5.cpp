@@ -1,4 +1,4 @@
-﻿#include "Shader.h"
+#include "Shader.h"
 #include "Model.h"
 #include <GLFW/glfw3.h>
 #include <glm.hpp>
